@@ -1,0 +1,52 @@
+﻿body {font:12px Helvetica, Arial, sans-serif;  margin:0; padding:0; word-wrap:break-word; word-break:break-all; }
+A:link
+{
+    color: #339933;
+    text-decoration: none;
+}
+A:visited{color:#256762; text-decoration: none;}
+A:active{color:#666666; text-decoration: none;}
+A:hover{color: #000000;text-decoration: underline;}
+ul, li { list-style:none; }
+img { border:none; vertical-align:middle;}
+/* html { overflow:-moz-scrollbars-vertical; } 在Firefox下始终显示滚动条*/
+.Error
+{
+    margin: 15% auto;
+    font-weight: bolder;
+    width:500px;
+    padding:10px;
+}
+.ErrorNote
+{
+    font-size: 15px;
+    color: #FFFFFF;
+    margin:5px;
+    line-height:30px;
+    text-indent:20px;
+    background-color: #F4706C;
+}
+.ProImg
+{
+    margin:5px;
+    height:150px;
+    width:130px;
+}
+.TopBack
+{
+    background:url("../Images/TopBack.jpg") repeat-x;
+    height:50px;
+    padding-right:20px;
+}
+.loginTXT
+{
+    border: 1px solid #800000;
+    height:15px;
+}
+.TopMes
+{
+    color:#ffffff;
+    margin:30px 0 0 20px;
+    font-weight:bolder;
+    float:left;
+}

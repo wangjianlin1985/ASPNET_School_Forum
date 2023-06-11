@@ -1,0 +1,157 @@
+﻿@import url("Base.css");
+.div_All
+{
+	width:100%;
+	padding:0;
+	margin:0;
+}
+.div_Body
+{
+	width:100%;
+	margin:0 auto;
+}
+.Body_Title
+{
+    font-size: 13px;
+    line-height: 28px;
+    text-indent: 10px;
+    font-weight:bolder;
+    color:#ffffff;
+    background-color: #0083DB;
+}
+.Body_Search
+{
+	width:100%;
+	background-color:#F0F0E8;
+	height:30px;
+	line-height:30px;
+	text-indent:15px;
+}
+.Body_Mes
+{width:98%;margin:0 auto;
+}
+.Admin_Table
+{
+    width:100%; 
+    border: 1px solid #B3CCF2;
+}
+.Admin_Table_Title
+{
+	background-image: url(../Images/whood.gif);
+	font-size: 14px;
+	height:23px;
+	color:#0080CE;
+}
+.Admin_Table_Title th,.Admin_Table td
+{border-right: #B3CCF2 1px solid;
+border-bottom: #B3CCF2 1px solid;
+ line-height:23px;
+ padding-left:5px;
+}
+
+.LeftNote {width: 182px;margin: 0px;padding:0px;}
+img{border:0px;vertical-align:middle;}
+table
+{
+	width: 100%;
+	margin: 0px auto;
+}
+.qqq
+{
+	}
+.MenuNote
+{
+	margin:0px;
+	padding:0px;
+	display:none;
+}
+.Menu
+{
+	cursor: pointer;
+	line-height:30px;
+	display: block;
+	color: #FF0000;
+	text-align: center;
+	background: url(../Images/menu_bgS.gif) no-repeat;
+	font-weight: bolder;
+	font-size: 13px;
+	height:30px;
+}
+.MenuUL {
+	width: 182px;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.MenuUL li {
+	line-height: 26px;
+	color: #333333;
+	list-style-type: none;
+	display: block;
+	text-decoration: none;
+	margin:0px;
+	padding:0px;
+}
+.MenuUL a:link,.MenuUL a:visited,.MenuUL a:active {
+	color: #333333;
+	background-image: url(../Images/menu_bg1.gif);
+	background-repeat: no-repeat;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	height:26px;
+}
+   .MenuUL a:hover
+{
+	color: #CC0000;
+	background-image: url(../Images/menu_bg2.gif);
+	background-repeat: no-repeat;
+	text-align: center;
+	display: block;
+	text-decoration: underline;
+	height:26px;
+}
+.MesNote
+{
+    margin:2px auto;
+    text-align:center;
+}
+.TipMes
+{
+    font-weight: bolder;
+    line-height: 30px;
+    margin: 2px;
+    padding-left: 20px;
+}
+.WarnMes
+{
+    font-size: 19px;
+    font-weight: bolder;
+    color: #FF3300;
+    margin:auto 2px;
+}
+.page_Left
+{
+	width:25%;
+	height:100%;
+	float:left;
+}
+.page_Right
+{
+	width:74%;
+	height:100%;
+	float:right;
+	text-align:right;
+}
+.SeeImg
+{
+	margin:auto 10px;
+}
+.pageBtn
+{
+	margin:0px 3px;
+}
+.TIP
+{
+    cursor:pointer;
+}
